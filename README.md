@@ -13,7 +13,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example usage:
 * https://frecodecamp-timestamp.glitch.me/api/timestamp/2015
-* https://frecodecamp-timestamp.glitch.me/api/timestamp/1450137600">https://frecodecamp-timestamp.glitch.me/api/timestamp/1450137600
+* https://frecodecamp-timestamp.glitch.me/api/timestamp/1450137600
 
 #### Example output:
 * {"unix":2015,"utc":"Thu, 01 Jan 1970 00:00:02 GMT"}
